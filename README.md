@@ -1,2 +1,3 @@
 # odin-recipes
-My Projects
+My Odin projects
+Hello Odin!
